@@ -21,14 +21,14 @@
 - 🧑‍💻 Backend developer, mostly writing **Go**
 - 🎓 Teacher & 🧭 mentor — helping people grow as engineers
 - 🔧 Interested in clean architecture, gRPC and distributed systems
-- 🧪 Occasionally experimenting with other languages — Nim, C/C++
+- 🧪 Occasionally experimenting with Rust, Haskell, Nim, C/C++ and digital hardware (Verilog/VHDL, FPGA)
 
 ### 👋 Обо мне
 
 - 🧑‍💻 Backend-разработчик, в основном пишу на **Go**
 - 🎓 Преподаю и 🧭 менторю — помогаю людям расти как инженерам
 - 🔧 Интересуюсь чистой архитектурой, gRPC и распределёнными системами
-- 🧪 Иногда экспериментирую с другими языками — Nim, C/C++
+- 🧪 Иногда экспериментирую с Rust, Haskell, Nim, C/C++ и цифровым железом (Verilog/VHDL, FPGA)
 
 ---
 
@@ -36,7 +36,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,bash,git,cpp,c,nim,latex&perline=10" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=go,rust,haskell,py,cpp,c,nim,postgres,docker,linux,bash,git,latex&perline=13" alt="Tech stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Verilog-5A29E4?style=for-the-badge" alt="Verilog" />
+<img src="https://img.shields.io/badge/VHDL-5A29E4?style=for-the-badge" alt="VHDL" />
+<img src="https://img.shields.io/badge/FPGA-5A29E4?style=for-the-badge" alt="FPGA" />
 
 </div>
 
