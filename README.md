@@ -46,17 +46,4 @@
 
 </div>
 
----
-
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ippaveln&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00ADD8&icon_color=5A29E4" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ippaveln&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=00ADD8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=ippaveln&hide_border=true&theme=tokyonight&ring=00ADD8&fire=5A29E4&currStreakLabel=00ADD8" alt="GitHub streak" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A29E4,100:00ADD8&height=100&section=footer" alt="" width="100%" />
