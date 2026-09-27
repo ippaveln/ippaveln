@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,linux,bash,git,cpp,c,nim,latex&perline=12" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,bash,git,cpp,c,nim,latex&perline=10" alt="Tech stack" />
 
 </div>
 
